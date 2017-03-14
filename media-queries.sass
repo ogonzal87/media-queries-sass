@@ -15,7 +15,7 @@ $desktop-hd-width: 1440px;
 }
 
 @mixin desktop {
-  @media (min-width: #{$desktop-width} and (max-width: #{$desktop-hd-width - 1px}) {
+  @media (min-width: #{$desktop-width}) and (max-width: #{$desktop-hd-width - 1px}) {
     @content;
   }
 }
