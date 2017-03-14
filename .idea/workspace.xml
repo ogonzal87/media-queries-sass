@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5025abf2-6eaf-4fb2-ba64-9587a3e855ee" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media-queries.sass" afterPath="$PROJECT_DIR$/media-queries.sass" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -34,10 +35,10 @@
       <file leaf-file-name="media-queries.sass" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/media-queries.sass">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+            <state relative-caret-position="435">
+              <caret line="29" column="21" lean-forward="true" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
               <folding>
-                <marker date="1489528236000" expanded="true" signature="385:444" ph="..." />
+                <marker date="1489528803000" expanded="true" signature="88:170" ph="..." />
               </folding>
             </state>
           </provider>
@@ -120,12 +121,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1489527993466</updated>
-      <workItem from="1489527994670" duration="246000" />
+      <workItem from="1489527994670" duration="877000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="246000" />
+    <option name="totallyTimeSpent" value="877000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2560" y="23" width="2560" height="1053" extended-state="6" />
@@ -170,10 +171,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/media-queries.sass">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        <state relative-caret-position="435">
+          <caret line="29" column="21" lean-forward="true" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
           <folding>
-            <marker date="1489528236000" expanded="true" signature="385:444" ph="..." />
+            <marker date="1489528803000" expanded="true" signature="88:170" ph="..." />
           </folding>
         </state>
       </provider>
